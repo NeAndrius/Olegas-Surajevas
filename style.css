@@ -1,0 +1,35 @@
+.olegas {
+    color: blue;
+    text-align: center;
+}
+
+p {
+    margin-right: 30%;
+    margin-left: 10%;
+    color: #b02727;
+}
+
+body {
+    background-image: url("5.jpg");
+    background-repeat: no-repeat;
+    /* background-position: center; */
+    background-attachment: scroll;
+    background-size: 100%;
+}
+
+.link {
+    margin-right: 20%;
+    margin-left: 10%;
+}
+
+.reklama {
+    height: 30%;
+    width: 17%;
+    bottom: 60%;
+    left: 80%;
+    position: absolute;
+}
+
+a {
+    color: #b02727;
+}
