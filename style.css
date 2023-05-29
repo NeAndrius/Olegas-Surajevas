@@ -6,7 +6,7 @@
 p {
     margin-right: 30%;
     margin-left: 10%;
-    color: #b02727;
+    color: rgb (000, 255, 000);
 }
 
 body {
@@ -31,5 +31,5 @@ body {
 }
 
 a {
-    color: #b02727;
+    color: rgb (000, 255, 000);
 }
